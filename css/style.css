@@ -181,7 +181,7 @@ top: -14px;
 left: -164px;
 width: 154px;
 height: 64px;
-background-image: url(/img/logo.svg);
+background-image: url(../../img/logo.svg);
 background-repeat: no-repeat;
 
 }
@@ -502,7 +502,7 @@ background-repeat: no-repeat;
 
 
 .promo-item1 {
-  background-image: url(/img/malina.png);
+  background-image: url(../../img/malina.png);
   background-repeat: no-repeat;
   background-position: center center;
   padding: 20px;
@@ -526,7 +526,7 @@ background-repeat: no-repeat;
 }
 
 .promo-item2 {
-  background-image: url(/img/choko.png);
+  background-image: url(../../img/choko.png);
   background-repeat: no-repeat;
   background-position: center center;
   padding: 20px;
@@ -617,7 +617,7 @@ background-repeat: no-repeat;
 .aboutshop {
   width: 100%;
   min-height: 305px;
-  background-image: url(/img/vafle.jpg);
+  background-image: url(../../img/vafle.jpg);
   background-repeat: repeat;
   background-position: left top;
   border-radius: 15px;
@@ -672,7 +672,7 @@ background-repeat: no-repeat;
   left: -57px;
   width: 49px;
   height: 49px;
-  background-image: url(/img/icecreamico.svg);
+  background-image: url(../../img/icecreamico.svg);
   background-repeat: no-repeat;
 }
 
@@ -683,7 +683,7 @@ background-repeat: no-repeat;
   left: -57px;
   width: 49px;
   height: 49px;
-  background-image: url(/img/muico.svg);
+  background-image: url(../../img/muico.svg);
   background-repeat: no-repeat;
 }
 
@@ -694,7 +694,7 @@ background-repeat: no-repeat;
   left: -57px;
   width: 49px;
   height: 49px;
-  background-image: url(/img/ecoico.svg);
+  background-image: url(../../img/ecoico.svg);
   background-repeat: no-repeat;
 }
 
@@ -705,7 +705,7 @@ background-repeat: no-repeat;
   left: -57px;
   width: 49px;
   height: 49px;
-  background-image: url(/img/termoico.svg);
+  background-image: url(../../img/termoico.svg);
   background-repeat: no-repeat;
 }
 
@@ -725,7 +725,7 @@ background-repeat: no-repeat;
 
 .news {
   background-color: #fff;
-  background-image: url(/img/clubnika2.png);
+  background-image: url(../../img/clubnika2.png);
   background-position: center right -50px;
   background-repeat: no-repeat;
   padding: 25px 20px;
@@ -753,7 +753,7 @@ background-repeat: no-repeat;
 
 .subscribe {
   height: 220px;
-  background-image: url(/img/postfone.png);
+  background-image: url(../../img/postfone.png);
   padding: 6px;
 }
 
